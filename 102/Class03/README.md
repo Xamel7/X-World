@@ -1,4 +1,4 @@
-# [Class03](./Class03/)
+## [Class03](/Class03)
 
 ## Initial Customization
 

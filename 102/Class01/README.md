@@ -1,4 +1,4 @@
-# [Class 01](./Class01)
+## [Class 01](/Class01)
 
 ## Github
 
