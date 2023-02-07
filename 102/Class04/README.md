@@ -68,3 +68,48 @@
 
 ><body></body> — the <body> element. This contains all the content that you want to show to web users when they visit your page, whether that's text, images, videos, games, playable audio tracks, or whatever else.
 
+## Links
+
+>Links are very important — they are what makes the web a web! To add a link, we need to use a simple element — <a> — "a" being the short form for "anchor".
+
+## Usage Notes
+
+>Each <article> should be identified, typically by including a heading (<h1> - <h6> element) as a child of the <article> element.
+
+>When an <article> element is nested, the inner element represents an article related to the outer element. For example, the comments of a blog post can be <article> elements nested in the <article> representing the blog post.
+
+>Author information of an <article> element can be provided through the <address> element, but it doesn't apply to nested <article> elements.
+
+>The publication date and time of an <article> element can be described using the datetime attribute of a <time> element.
+
+## Key Resources
+
+>HTML Introduction
+If you're new to web development, be sure to read our HTML Basics article to learn what HTML is and how to use it.
+
+>HTML Tutorials
+For articles about how to use HTML, as well as tutorials and complete examples, check out our HTML Learning Area.
+
+>HTML Reference
+In our extensive HTML reference section, you'll find the details about every element and attribute in HTML.
+
+## Main Root
+
+<html>The <html> HTML element represents the root (top-level element) of an HTML document, so it is also referred to as the root element. All other elements must be descendants of this element.
+
+## Doc. Metadata
+
+>Metadata for styles and scripts may be defined in the page or link to another file that has the information.
+
+<base>The <base> HTML element specifies the base URL to use for all relative URLs in a document. There can be only one <base> element in a document.
+
+<head>The <head> HTML element contains machine-readable information (metadata) about the document, like its title, scripts,and style sheets.
+
+<link>The <link> HTML element specifies relationships between the current document and an external resource. This element is most commonly used to link to CSS, but is also used to establish site icons (both "favicon" style icons and icons for the home screen and apps on mobile devices) among other things.
+
+<meta>The <meta> HTML element represents Metadata that cannot be represented by other HTML meta-related elements, like base, link, script, style or title.
+
+<style>The <style> HTML element contains style information for a document, or part of a document. It contains CSS, which is applied to the contents of the document containing the <style> element.
+
+<title>The <title> HTML element defines the document's title that is shown in a Browser's title bar or a page's tab. It only contains text; tags within the element are ignored.
+
