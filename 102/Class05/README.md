@@ -15,3 +15,7 @@
 ## CSS modules
 # Backgrounds & Borders
 
+## CSS specifications
+
+>All web standards technologies (HTML, CSS, JavaScript, etc.) are defined in giant documents called specifications (or "specs"), which are published by standards organizations (such as the W3C, WHATWG, ECMA, or Khronos) and define precisely how those technologies are supposed to behave.
+
