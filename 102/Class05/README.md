@@ -36,3 +36,93 @@
 >An inline style may be used to apply a unique style for a single element.
 
 >To use inline styles, add the style attribute to the relevant element. The style attribute can contain any CSS property.
+
+## Basic selectors
+
+>Universal selector
+Selects all elements. Optionally, it may be restricted to a specific namespace or to all namespaces.
+
+Syntax: * ns|* *|*
+
+>Type selector
+Selects all elements that have the given node name.
+
+Syntax: elementname
+
+>Type selector
+Selects all elements that have the given node name.
+
+Syntax: elementname
+
+>ID selector
+Selects an element based on the value of its id attribute. There should be only one element with a given ID in a document.
+
+Syntax: #idname
+
+>Attribute selector
+Selects all elements that have the given attribute.
+
+Syntax: [attr] [attr=value] [attr~=value] [attr|=value] [attr^=value] [attr$=value] [attr*=value]
+ 
+ ## Grouping selectors
+
+ >Selector list
+The , selector is a grouping method that selects all the matching nodes.
+
+Syntax: A, B
+
+## Combinators
+
+>Descendant combinator
+The " " (space) combinator selects nodes that are descendants of the first element.
+
+Syntax: A B
+
+>Child combinator
+The > combinator selects nodes that are direct children of the first element.
+
+Syntax: A > B
+
+>General sibling combinator
+The ~ combinator selects siblings. This means that the second element follows the first (though not necessarily immediately), and both share the same parent.
+
+Syntax: A ~ B
+
+>Adjacent sibling combinator
+The + combinator matches the second element only if it immediately follows the first element.
+
+Syntax: A + B
+
+>Column combinator Experimental
+The || combinator selects nodes which belong to a column.
+
+Syntax: A || B
+
+## Pseudo-classes and pseudo-elements
+
+>Pseudo classes
+The : pseudo allow the selection of elements based on state information that is not contained in the document tree.
+
+>Pseudo elements
+The :: pseudo represent entities that are not included in HTML.
+
+## Structure of a selector
+
+>Simple selector
+A selector with a single component, such as a single id selector or type selector, that's not used in combination with or contains any other selector component or combinator.All basic selectors, attributes, and single pseudo-classes and pseudo-elements are simple selectors.
+
+>Compound selector
+A sequence of simple selectors that are not separated by a combinator. A compound selector represents a set of simultaneous conditions on a single element.
+In a compound selector, the type selector or a universal selector in a compound selector must come first in the sequence of selectors. Only one type selector or universal selector is allowed in the sequence. Since whitespace represents the descendant combinator, no whitespace is allowed between the simple selectors in a compound selector.
+
+>Complex selector
+A sequence of one or more simple and/or compound selectors that are separated by combinators. A complex selector represents a set of simultaneous conditions on a set of elements. These conditions apply in the context of relationships described by the combinators.
+
+>Relative selector
+A selector representing an element relative to one or more anchor elements preceded by a combinator. 
+
+>Selector list
+A comma-separated list of simple, compound, or complex selectors. If the constituent selector type of a selector list is important but unspecified, it is called a complex selector list.
+
+
+
