@@ -196,8 +196,3 @@ Operator	Description	Example	Same as	Result	Decimal
 
 
 
-
-
-
-
-
