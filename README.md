@@ -9,6 +9,6 @@ Nothing vertured is nothing gained.Challenges present new alleys to show what yo
 
 ## [Course 201](./X-World/Code201-FonudationsofSoftwareDevelopment/Class01/Lab01/README.md)
 
-## [Course 301](./X-World/Code301-IntermediateofSoftwareDevelopment/Class01/Lab01/README.md)
+## [Course 301](./X-World/Code301-IntermediateSoftwareDevelopment/Class01/Lab01/README.md)
 
 ## [Course 401](./X-World/Code401-AdvancedSoftwareDevelopment/Class01/Lab01/README.md)
