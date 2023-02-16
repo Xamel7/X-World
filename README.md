@@ -5,6 +5,10 @@ How's it going everybody?The name's Joel.I'm working towards becoming a software
 
 ## [Growth Mindset]
 Nothing vertured is nothing gained.Challenges present new alleys to show what you're made of.Just because you stuggle doesn't mean give up;or you will always fail just short of your goals.Persistent is key;While patient is a virtue.You need both to succeed in anything you do. 
-## [Course 102](./102/Class01/Lab01/README.md)
+## [Course 102](./Code102-IntrotosoftwareDevelopment/Class01/Lab01/README.md)
 
-## [Course 201](./201/Class01/Lab01/README.md)
+## [Course 201](./Code201-FonudationsofSoftwareDevelopment/Class01/Lab01/README.md)
+
+## [Course 301](./Code301-IntermediateofSoftwareDevelopment/Class01/Lab01/README.md)
+
+## [Course 401](./Code401-AdvancedSoftwareDevelopment/Class01/Lab01/README.md)
