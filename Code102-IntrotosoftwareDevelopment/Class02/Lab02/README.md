@@ -1,1 +1,1 @@
-[Github](https://xamel7.github.io/X-World/)
+[Class02](..)
