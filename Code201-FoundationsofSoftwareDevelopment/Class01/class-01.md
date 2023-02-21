@@ -1,6 +1,7 @@
-## Things I want to know more about
-
-# How the web works.
+Data flows through a vast digital sphere,
+HTTP sends it from far to near.
+With requests and responses, a network ballet,
+Information travels in a virtual relay.
 
 >When browsers send requests to servers for HTML files, those HTML files often contain <link> elements referencing external CSS stylesheets and <script> elements referencing external JavaScript scripts. It's important to know the order in which those files are parsed by the browser as the browser loads the page.
 
