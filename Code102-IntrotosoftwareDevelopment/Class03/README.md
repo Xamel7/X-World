@@ -1,5 +1,3 @@
-## [Class03](/Class03)
-
 ## Initial Customization
 
 # Configuration of Variables

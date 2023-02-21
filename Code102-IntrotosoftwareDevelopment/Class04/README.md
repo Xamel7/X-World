@@ -1,6 +1,4 @@
-## [Class04](/Class04/)
-
-# Wireframe
+## Wireframe
 
 >Purpose: A wireframe is a basic, low-fidelity representation of a website or application interface, used to illustrate and test its layout, structure and content before moving on to design and development.
 
