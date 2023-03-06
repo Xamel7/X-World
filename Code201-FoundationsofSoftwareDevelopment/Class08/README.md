@@ -2,9 +2,7 @@
 
 # Flexbox is designed for one-dimensional content. Explain what this means.
 
-# It excels at taking a bunch of items which have different sizes, and returning the best layout for those items.
-
-# This is the ideal layout model for this sidebar pattern. Flexbox not only helps lay the sidebar and content out inline, but where there's not enough space remaining, the sidebar will break onto a new line. Instead of setting rigid dimensions for the browser to follow, with flexbox, you can instead provide flexible boundaries to hint how the content could display.
+# It excels at taking a bunch of items which have different sizes, and returning the best layout for those items.This is the ideal layout model for this sidebar pattern. Flexbox not only helps lay the sidebar and content out inline, but where there's not enough space remaining, the sidebar will break onto a new line. Instead of setting rigid dimensions for the browser to follow, with flexbox, you can instead provide flexible boundaries to hint how the content could display.
 
 # Explain the difference between the main axis and cross axis.
 
