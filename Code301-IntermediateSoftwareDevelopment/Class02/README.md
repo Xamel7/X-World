@@ -30,4 +30,4 @@ When the state of the component changes.
 
 # What are some examples of things that we could store in state?
 
-Things that need to be re-render or changed through the process of a component.The time or a score is an example.
+Things that need to be re-render or changed through the life of a component.The time or a score is an example.
