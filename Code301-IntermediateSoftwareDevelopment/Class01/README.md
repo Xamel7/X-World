@@ -1,5 +1,8 @@
 ## Component-Based Architecture
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 # What is a “component”?
 
 A component is a software object, intended to interact with other components, encapsulating certain functionality or a set of functionalities.A component is a modular, portable, replaceable, and reusable set of well-defined functionality that encapsulates its implementation and exporting it as a higher-level interface.
@@ -40,10 +43,16 @@ System maintenance and evolution − Easy to change and update the implementatio
 
 Independent − Independency and flexible connectivity of components. Independent development of components by different group in parallel. Productivity for the software development and future software development.
 
+<<<<<<< Updated upstream
 ## What is Props and How to Use it in React
 
 # What is “props” short for?
 
+=======
+# What is Props and How to Use it in React
+
+What is “props” short for?
+>>>>>>> Stashed changes
 “Props” is a special keyword in React, which stands for properties and is being used for passing data from one component to another.
 
 # How are props used in React?
@@ -56,6 +65,7 @@ Then pass it to child component(s) by using Props
 
 Finally, render the Props Data
 
+<<<<<<< Updated upstream
 Example:
 class ParentComponent extends Component {  
   render() {
@@ -68,6 +78,13 @@ class ParentComponent extends Component {
   }
 }
 
+=======
+Example: class ParentComponent extends Component {
+render() { return (
+
+I'm the parent component.
+); } }
+>>>>>>> Stashed changes
 # What is the flow of props?
 
 Top to bottom;parent to child
